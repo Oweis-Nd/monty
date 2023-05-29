@@ -3,7 +3,7 @@ monty
 0x19. C - Stacks, Queues - LIFO, FIFO
 C
 Group project
-done by oweis Ndoni and olaosebikan pelumi
+done by oweis Ndoni and Olaosebikan pelumi
 Algorithm
 Data structure
 
